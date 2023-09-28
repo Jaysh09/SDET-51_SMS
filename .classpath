@@ -34,5 +34,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="src" path="/com.sms.SDET-51"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
