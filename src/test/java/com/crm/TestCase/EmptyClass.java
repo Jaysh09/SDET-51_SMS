@@ -1,3 +1,4 @@
+package com.crm.TestCase;
 
 public class EmptyClass {
 
