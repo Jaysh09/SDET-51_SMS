@@ -5,6 +5,9 @@ public class EmptyClass {
 		System.out.println("Hi this is an empty class");
 		System.out.println("Make changes as per your wish");
 			System.out.println("I dont want class on Saturday");
+			System.out.println("Hi this is an empty class");
+			System.out.println("Make changes as per your wish");
+				System.out.println("I dont want class on Saturday");
 
 	}
 
